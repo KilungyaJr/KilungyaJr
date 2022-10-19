@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KilungyaJr
-- 🌱 I’m currently learning to become a full stack software developer
+- 👋 Hi, I’m Kilungya
+- 🌱 Currently learning to become a full stack software developer
 - 💞️ I’m looking to collaborate on front end and back end development
 - 📫 Reach me via twitter @kilungyajr
 
